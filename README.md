@@ -1,1 +1,1 @@
-Steps are saved in step file.
+Steps are saved in Commands.txt file.
